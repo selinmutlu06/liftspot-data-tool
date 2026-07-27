@@ -1,0 +1,101 @@
+id,name,building,address,lat,lng,cluster_id,nearest_id,nearest_distance_m
+3,Roosevelt Field Mall,Mall,"630 Old Country Rd, Garden City, NY",40.738048,-73.612665,cluster_0,177,345.985470
+4,Stony Brook University Hospital,Medical,"101 Nicolls Rd, Stony Brook, NY",40.908900,-73.114800,cluster_1,211,571.274103
+6,Walt Whitman Shops,Mall,"160 Walt Whitman Rd, Huntington Station, NY",40.822470,-73.409430,cluster_2,141,3860.572548
+8,Long Island Marriott,Hotel,"101 James Doolittle Blvd, Uniondale, NY",40.724040,-73.588089,cluster_3,48,481.558832
+9,Hofstra University — Axinn Library,Education,"123 Hofstra University, Hempstead, NY",40.714600,-73.600300,cluster_4,212,186.596511
+11,Tanger Outlets Deer Park,Mall,"152 The Arches Cir, Deer Park, NY",40.764940,-73.304130,cluster_5,131,3460.954095
+13,North Shore University Hospital,Medical,"300 Community Dr, Manhasset, NY 11030",40.775087,-73.700525,cluster_6,53,1238.741688
+14,Long Island Jewish Valley Stream (Northwell Health),Medical,"900 Franklin Ave, Valley Stream, NY 11580",40.681100,-73.686400,cluster_7,15,3480.325601
+15,Green Acres Mall,Mall,"2034 Green Acres Rd S, Valley Stream, NY 11581",40.662410,-73.719502,cluster_8,14,3480.325601
+16,Adelphi University — Post Hall,Education,"1 South Ave, Garden City, NY 11530",40.720200,-73.651700,cluster_9,214,37.374839
+17,1 Jericho Plaza,Office,"1 Jericho Plaza, Jericho, NY 11753",40.786142,-73.546265,cluster_10,46,302.969769
+20,Huntington Hospital (Northwell Health),Medical,"270 Park Ave, Huntington, NY 11743",40.879400,-73.416200,cluster_11,124,1654.450242
+21,Hilton Long Island / Huntington,Hotel,"598 Broad Hollow Rd, Melville, NY 11747",40.763844,-73.425080,cluster_12,55,959.967778
+22,Melville Marriott Long Island,Hotel,"1350 Walt Whitman Rd, Melville, NY 11747",40.783400,-73.421600,cluster_13,159,242.083680
+23,Good Samaritan University Hospital,Medical,"1000 Montauk Hwy, West Islip, NY 11795",40.694100,-73.294300,cluster_14,29,5723.667772
+25,Smith Haven Mall,Mall,"313 Smith Haven Mall, Lake Grove, NY 11755",40.865058,-73.130287,cluster_15,127,4233.857873
+26,"Frank Melville Jr. Memorial Library, Stony Brook University",Education,"Circle Rd, Stony Brook, NY 11794",40.915600,-73.122700,cluster_16,99,132.297648
+28,John T. Mather Memorial Hospital,Medical,"75 North Country Rd, Port Jefferson, NY 11777",40.939960,-73.053430,cluster_17,42,933.684950
+29,South Shore University Hospital,Medical,"301 E Main St, Bay Shore, NY 11706",40.725833,-73.240833,cluster_18,113,5545.013849
+31,Eastern Long Island Hospital,Medical,"201 Manor Pl, Greenport, NY 11944",41.109956,-72.360119,cluster_19,88,954.101457
+32,Stony Brook Southampton Hospital,Medical,"240 Meeting House Ln, Southampton, NY 11968",40.885050,-72.380739,cluster_20,196,8983.726135
+33,Mercy Medical Center,Medical,"1000 N Village Ave, Rockville Centre, NY 11570",40.687190,-73.630870,cluster_21,96,415.219128
+34,St. Francis Hospital The Heart Center,Medical,"100 Port Washington Blvd, Roslyn, NY 11576",40.804550,-73.670180,cluster_22,78,1154.196323
+35,Glen Cove Hospital,Medical,"101 St Andrews Ln, Glen Cove, NY 11542",40.870570,-73.622500,cluster_23,59,7215.073810
+36,Plainview Hospital,Medical,"888 Old Country Rd, Plainview, NY 11803",40.774941,-73.478834,cluster_24,70,3069.118952
+37,Syosset Hospital,Medical,"221 Jericho Tpke, Syosset, NY 11791",40.810972,-73.508088,cluster_25,63,2032.464611
+38,Long Island Jewish Medical Center,Medical,"270-05 76th Ave, New Hyde Park, NY 11040",40.755667,-73.707712,cluster_26,39,204.335177
+39,Cohen Children's Medical Center,Medical,"269-01 76th Ave, New Hyde Park, NY 11040",40.753890,-73.708330,cluster_26,38,204.335177
+41,Northport VA Medical Center,Medical,"79 Middleville Rd, Northport, NY 11768",40.893707,-73.308785,cluster_27,20,9168.819383
+42,St. Charles Hospital,Medical,"200 Belle Terre Rd, Port Jefferson, NY 11777",40.946130,-73.060970,cluster_28,28,933.684950
+43,St. Joseph Hospital,Medical,"4295 Hempstead Tpke, Bethpage, NY 11714",40.726370,-73.478870,cluster_29,91,5167.223795
+44,South Oaks Hospital,Medical,"400 Sunrise Hwy, Amityville, NY 11701",40.685300,-73.425800,cluster_30,43,6392.742269
+46,2 Jericho Plaza,Office,"2 Jericho Plaza, Jericho, NY 11753",40.785100,-73.549590,cluster_10,17,302.969769
+48,333 Earle Ovington Blvd,Office,"333 Earle Ovington Blvd, Uniondale, NY 11553",40.724910,-73.593687,cluster_3,8,481.558832
+50,900 Stewart Ave,Office,"900 Stewart Ave, Garden City, NY 11530",40.733700,-73.598490,cluster_31,174,160.958036
+51,585 Stewart Avenue,Office,"585 Stewart Ave, Garden City, NY 11530",40.732740,-73.612460,cluster_32,177,501.494987
+52,175 Broadhollow Rd,Office,"175 Broadhollow Rd, Melville, NY 11747",40.786930,-73.414720,cluster_13,186,182.511163
+53,1010 Northern Blvd,Office,"1010 Northern Blvd, Great Neck, NY 11021",40.784920,-73.707440,cluster_33,13,1238.741688
+55,Henry Schein HQ,Office,"135 Duryea Rd, Melville, NY 11747",40.768675,-73.415633,cluster_34,67,808.682170
+58,Broadridge Financial Solutions HQ,Office,"5 Dakota Dr, Lake Success, NY 11042",40.762000,-73.690730,cluster_35,150,541.378461
+59,Pall Corporation HQ,Office,"25 Harbor Park Dr, Port Washington, NY 11050",40.811420,-73.657760,cluster_36,78,343.376612
+62,1111 Marcus Ave,Office,"1111 Marcus Ave, Lake Success, NY 11042",40.756380,-73.699660,cluster_37,150,436.594089
+63,400 Crossways Park Drive,Office,"400 Crossways Park Dr, Woodbury, NY 11797",40.805420,-73.485080,cluster_38,70,540.272872
+67,445 Broadhollow Rd,Office,"445 Broadhollow Rd, Melville, NY 11747",40.775220,-73.419820,cluster_39,168,246.941792
+70,1000 Woodbury Rd,Office,"1000 Woodbury Rd, Woodbury, NY 11797",40.802530,-73.479920,cluster_40,63,540.272872
+74,Hyatt Regency Long Island,Hotel,"1717 Motor Pkwy, Hauppauge, NY 11749",40.815060,-73.171330,cluster_41,95,6049.972305
+75,The Allegria Hotel,Hotel,"80 W Broadway, Long Beach, NY 11561",40.584300,-73.666412,cluster_42,15,9773.084494
+76,Gurney's Montauk Resort & Seawater Spa,Hotel,"290 Old Montauk Hwy, Montauk, NY 11954",41.015123,-71.993171,cluster_43,194,7874.377942
+77,Hampton Inn Long Island Commack,Hotel,"680 Commack Rd, Commack, NY 11725",40.806120,-73.293140,cluster_44,131,1501.543987
+78,Hilton Garden Inn Roslyn,Hotel,"1 Tower Dr, Roslyn, NY 11576",40.808343,-73.657415,cluster_36,59,343.376612
+88,The Menhaden Hotel,Hotel,"207 Main St, Greenport, NY 11944",41.101577,-72.362572,cluster_45,31,954.101457
+90,SUNY Old Westbury — Campus Center,Education,"223 Store Hill Rd, Old Westbury, NY 11568",40.799050,-73.573430,cluster_46,46,2536.526362
+91,Farmingdale State College — Gleeson Hall,Education,"2350 Broadhollow Rd, Farmingdale, NY 11735",40.753010,-73.428617,cluster_47,21,1240.974716
+95,Touro Law Center,Education,"225 Eastview Dr, Central Islip, NY 11722",40.762080,-73.187690,cluster_48,113,548.758127
+96,Molloy University — Public Square,Education,"1000 Hempstead Ave, Rockville Centre, NY 11571",40.686100,-73.626160,cluster_21,218,35.289381
+97,St. Joseph's University — Callahan Library,Education,"155 W Roe Blvd, Patchogue, NY 11772",40.775770,-73.024670,cluster_49,185,6280.649335
+98,Stony Brook University — Wang Center,Education,"1 University Center, Stony Brook, NY 11794",40.916450,-73.118244,cluster_16,26,386.168095
+99,Stony Brook University — Administration,Education,"100 Nicolls Rd, Stony Brook, NY 11794",40.914500,-73.122100,cluster_16,26,132.297648
+100,Hofstra University — Student Center,Education,"200 Hofstra University, Hempstead, NY 11549",40.716500,-73.599300,cluster_4,212,74.750627
+101,Five Towns College,Education,"305 N Service Rd, Dix Hills, NY 11746",40.793530,-73.368960,cluster_50,141,1266.949742
+102,Nassau County Courthouse,Government,"100 Supreme Court Dr, Mineola, NY 11501",40.738800,-73.634356,cluster_51,180,880.330623
+109,Nassau County District Court,Government,"99 Main St, Hempstead, NY 11550",40.707379,-73.623207,cluster_52,112,398.399603
+112,Hempstead Town Hall,Government,"1 Washington St, Hempstead, NY 11550",40.706300,-73.618700,cluster_52,109,398.399603
+113,Suffolk County Family Court,Government,"400 Carleton Ave, Central Islip, NY 11722",40.760880,-73.194010,cluster_53,95,548.758127
+124,Huntington Public Library,Library,"338 Main St, Huntington, NY 11743",40.869100,-73.430400,cluster_54,20,1654.450242
+125,Port Washington Public Library,Library,"1 Library Dr, Port Washington, NY 11050",40.831941,-73.696833,cluster_55,34,3782.461227
+127,Middle Country Public Library (Centereach),Library,"101 Eastwood Blvd, Centereach, NY 11720",40.864800,-73.079940,cluster_56,25,4233.857873
+128,Sachem Public Library,Library,"150 Holbrook Rd, Holbrook, NY 11741",40.823160,-73.081140,cluster_57,130,3374.416343
+129,Long Island MacArthur Airport Terminal,Transit,"100 Arrival Ave, Ronkonkoma, NY 11779",40.795948,-73.100303,cluster_58,130,57.661361
+130,MacArthur Airport Parking Garage,Transit,"3111 Veterans Memorial Hwy, Ronkonkoma, NY 11779",40.796300,-73.099800,cluster_58,129,57.661361
+131,Pilgrim Psychiatric Center,Medical,"998 Crooked Hill Rd, Brentwood, NY 11717",40.793350,-73.287340,cluster_59,77,1501.543987
+141,Sagamore Children's Psychiatric Center,Medical,"197 Half Hollow Rd, Dix Hills, NY 11746",40.793570,-73.384010,cluster_60,101,1266.949742
+150,3000 Marcus Ave,Office,"3000 Marcus Ave, Lake Success, NY 11042",40.758840,-73.695620,cluster_37,62,436.594089
+151,400 Garden City Plaza,Office,"400 Garden City Plaza, Garden City, NY 11530",40.736660,-73.617120,cluster_0,177,95.432689
+152,1000 Franklin Ave,Office,"1000 Franklin Ave, Garden City, NY 11530",40.729828,-73.636170,cluster_61,182,43.297373
+158,900 Merchants Concourse,Office,"900 Merchants Concourse, Westbury, NY 11590",40.744660,-73.591620,cluster_62,169,1096.590805
+159,290 Broadhollow Rd,Office,"290 Broadhollow Rd, Melville, NY 11747",40.783740,-73.418760,cluster_13,22,242.083680
+167,100 Motor Pkwy,Office,"100 Motor Pkwy, Hauppauge, NY 11788",40.807190,-73.268080,cluster_63,77,2112.542277
+168,534 Broadhollow Rd,Office,"534 Broadhollow Rd, Melville, NY 11747",40.774110,-73.422360,cluster_39,67,246.941792
+169,999 Stewart Avenue,Office,"999 Stewart Ave, Garden City, NY 11530",40.735680,-73.597000,cluster_31,174,186.101356
+174,990 Stewart Ave,Office,"990 Stewart Ave, Garden City, NY 11530",40.734030,-73.596630,cluster_31,50,160.958036
+177,300 Garden City Plaza,Office,"300 Garden City Plaza, Garden City, NY 11530",40.736320,-73.616080,cluster_0,151,95.432689
+180,Meltzer Lippe Goldstein & Breitstone LLP,Legal,"190 Willis Ave, Mineola, NY 11501",40.745942,-73.638865,cluster_64,102,880.330623
+182,Bond Schoeneck & King PLLC,Legal,"1010 Franklin Ave, Garden City, NY 11530",40.730202,-73.636313,cluster_61,152,43.297373
+185,Campolo Middleton & McCormick LLP,Legal,"4175 Veterans Memorial Hwy, Ronkonkoma, NY 11779",40.782990,-73.098650,cluster_65,129,1447.568528
+186,Hamburger Maxson Yaffe & McNally LLP,Legal,"225 Broadhollow Rd, Melville, NY 11747",40.785390,-73.415470,cluster_13,52,182.511163
+187,Farrell Fritz PC,Legal,"400 RXR Plaza, Uniondale, NY 11553",40.720161,-73.584366,cluster_66,189,61.910428
+189,Ruskin Moscou Faltischek PC,Legal,"1425 RXR Plaza, Uniondale, NY 11553",40.720241,-73.583639,cluster_66,187,61.910428
+194,Gurney's Star Island Resort,Hotel,"32 Star Island Rd, Montauk, NY 11954",41.069060,-71.932330,cluster_67,208,167.230135
+196,Topping Rose House,Hotel,"1 Bridgehampton Sag Harbor Tpke, Bridgehampton, NY 11932",40.938232,-72.300259,cluster_68,207,7012.074068
+197,The Maidstone Hotel,Hotel,"207 Main St, East Hampton, NY 11937",40.955380,-72.194050,cluster_69,196,9121.752358
+203,Sunset Beach Hotel,Hotel,"35 Shore Rd, Shelter Island Heights, NY 11965",41.073550,-72.365640,cluster_70,88,3127.049232
+207,American Hotel Sag Harbor,Hotel,"45 Main St, Sag Harbor, NY 11963",41.001173,-72.295107,cluster_71,196,7012.074068
+208,Montauk Yacht Club,Hotel,"26 Star Island Rd, Montauk, NY 11954",41.070440,-71.933123,cluster_67,194,167.230135
+209,Cold Spring Harbor Laboratory,Education,"1 Bungtown Rd, Cold Spring Harbor, NY 11724",40.862360,-73.468226,cluster_72,124,3267.910660
+210,Stony Brook University — Engineering Bldg,Education,"Circle Rd, Stony Brook, NY 11794",40.912600,-73.125200,cluster_16,99,335.397567
+211,Stony Brook University — Life Sciences Bldg,Education,"Life Sciences Trl, Stony Brook, NY 11794",40.911374,-73.120758,cluster_16,99,365.430420
+212,Hofstra University — Breslin Hall,Education,"140 Hofstra University, Hempstead, NY 11549",40.715900,-73.598900,cluster_4,100,74.750627
+214,Adelphi University — Earle Hall,Education,"1 South Ave, Garden City, NY 11530",40.720500,-73.651900,cluster_9,16,37.374839
+218,Molloy University — Hagan Hall,Education,"1000 Hempstead Ave, Rockville Centre, NY 11571",40.685840,-73.625920,cluster_21,96,35.289381

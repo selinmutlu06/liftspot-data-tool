@@ -1,0 +1,9 @@
+id,name,building,address,lat,lng
+e1,Main Lobby,Perkins Library,411 Chapel Dr,36.0016,-78.9394
+e2,East Wing,Perkins Library,411 Chapel Dr,36.0017,-78.9393
+e3,Tower Lift,Duke Chapel,401 Chapel Dr,36.0015,-78.9403
+e4,Basement,Bostock Library,,36.0020,-78.9390
+e5,North Lift,LSRC,308 Research Dr,36.0011,-78.9396
+e6,Duplicate Coord Test,Perkins Library,411 Chapel Dr,36.0016,-78.9394
+e2,Broken Duplicate ID,Fake Hall,X,999.0000,-200.0000
+e7,No Coords Lift,French Family Science Center,,,

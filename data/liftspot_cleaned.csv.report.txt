@@ -1,0 +1,3 @@
+LiftSpot data validation report
+Total issues found: 0
+

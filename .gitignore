@@ -1,0 +1,5 @@
+build/
+*.o
+liftspot_data_tool
+data/cleaned_elevators.csv
+data/cleaned_elevators.csv.report.txt
