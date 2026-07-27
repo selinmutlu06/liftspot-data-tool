@@ -1,6 +1,6 @@
 # liftspot-data-tool
 
-Companion tool for [LiftSpot](https://github.com/selinmutlu06/liftspot) — validates and cleans the elevator dataset before it ships to production.
+Companion tool for [LiftSpot](https://github.com/selinmutlu06/liftspot) ; validates and cleans the elevator dataset before it ships to production.
 
 A C++ CLI tool that validates and enriches the elevator dataset behind LiftSpot (liftspot.netlify.app), a map based elevator directory.
 
