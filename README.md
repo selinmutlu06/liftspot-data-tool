@@ -18,3 +18,6 @@ g++ -std=c++17 -O2 -o liftspot_data_tool src/main.cpp src/csv_utils.cpp src/geo_
 ## Usage
 
 ./liftspot_data_tool <input.csv> <output.csv> [cluster_threshold_meters]
+
+
+<sub>yes i hardcoded this.</sub>
